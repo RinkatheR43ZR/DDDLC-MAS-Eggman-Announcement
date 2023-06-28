@@ -1,4 +1,4 @@
-# DDDLC-MAS-Eggman-Announcement
+# DDLC-MAS-Eggman-Announcement
 A small mod that lets Monika talk about the copypasta meme, "Eggman's Announcement".
 
 Here's how you add submods to Monika After Story:
